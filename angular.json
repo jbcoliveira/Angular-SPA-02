@@ -6,8 +6,7 @@
     "AngularProject": {
       "projectType": "application",
       "schematics": {
-        "@schematics/angular:component": {
-          "inlineTemplate": true,
+        "@schematics/angular:component": {          
           "inlineStyle": true,
           "skipTests": true
         },
