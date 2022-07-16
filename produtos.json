@@ -5,7 +5,7 @@
       "nome": "mouse Microsoft",
       "valor": 15.90,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 10,
       "imagem": "mouse.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "nome": "Teclado Microsoft",
       "valor": 30.00,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 20,
       "imagem": "teclado.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "nome": "Monitor Samsung",
       "valor": 250.00,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 200,
       "imagem": "monitor.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "nome": "Headset Microsoft",
       "valor": 10.50,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 9,
       "imagem": "headset.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "nome": "Galaxy S10+",
       "valor": 3000.00,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 2000,
       "imagem": "celular.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "nome": "Mousepad Microsoft",
       "valor": 5.50,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 3,
       "imagem": "mousepad.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "nome": "Go Pro 8",
       "valor": 300.00,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 200,
       "imagem": "gopro.jpg"
     }
   ],
